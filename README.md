@@ -1,7 +1,11 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is Git project which we are usng as sample project
 
-## Purpose
+## Introduction
 
-Sample website with plenty of files for demos
+this site is forked from scm-ninja
+
+## GIT and GITHub training
+
+This is been created in devops training master class on Udemy
