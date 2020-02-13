@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 	Aparna Desai
 	aparnadesaiuk@gmail.com
-	devops engineer
+	Devops 
 
 # THANKS
 
@@ -15,5 +15,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr, machine learning 
 	AWS, google cloud
+
