@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> Aparna Desai
 
 # TECHNOLOGY COLOPHON
 
