@@ -14,3 +14,6 @@ This is been created in devops training master class on Udemy
 
 ##GitHub Content
 comparison with repo
+
+##contribution
+fork the repo
