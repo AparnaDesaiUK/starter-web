@@ -9,7 +9,7 @@ this site is forked from scm-ninja
 ## GIT and GITHub training
 
 This is been created in devops training master class on Udemy
-
+git rebase lectures
 ##Git comparison
 
 ##GitHub Content
