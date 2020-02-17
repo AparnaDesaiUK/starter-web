@@ -10,6 +10,7 @@ this site is forked from scm-ninja
 
 This is been created in devops training master class on Udemy
 git rebase lectures
+we have done work together
 ##Git comparison
 
 ##GitHub Content
