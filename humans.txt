@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 hi, I am modifing the file before rebae
+doing changes in local
+
 devops engineer level 3
 # TEAM
 
