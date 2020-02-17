@@ -5,6 +5,8 @@ This is Git project which we are usng as sample project
 ## Introduction
 
 this site is forked from scm-ninja
+loft off lectures on git are completed
+and lot to cover on devops
 
 ## GIT and GITHub training
 
